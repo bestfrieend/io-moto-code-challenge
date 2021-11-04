@@ -1,0 +1,1 @@
+java -jar .\build\libs\io-moto-challange-1.0-SNAPSHOT.jar
